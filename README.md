@@ -29,9 +29,10 @@ This is a companion repository for the Cost Estimation tutorial on HashiCorp Lea
 Once you've set up FinOps Policy as Code and defined your financial policies, you can use it to manage your cloud costs. 
 Here are some common usage scenarios:
 
-# Enforce Policy As Code Sentinel policies: https://www.hashicorp.com/sentinel
+# Enforce Policy As Code Sentinel policies 
+https://www.hashicorp.com/sentinel
 
 # Examples
-In the "examples" directory of this repository, you will find a sample financial policies and usage scenarios. 
+In the "soma-terraform-cost-estimation" directory of this repository, you will find a sample financial policies and usage scenarios. 
 These examples can help you understand how to define and use FinOps Policy as Code effectively.
 
